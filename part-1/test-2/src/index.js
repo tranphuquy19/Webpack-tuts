@@ -1,3 +1,3 @@
-const sayHello = () => console.log('hello world');
+import { sayHello } from './sayHello';
 
 sayHello();
