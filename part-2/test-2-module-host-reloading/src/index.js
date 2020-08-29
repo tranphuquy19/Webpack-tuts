@@ -1,1 +1,3 @@
-console.log('hello live reload successful');
+const { Logger } = require("./libs/logger");
+
+Logger('Live reload successful ahihi');
