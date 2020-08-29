@@ -1,1 +1,1 @@
-console.log(132);
+console.log('hello live reload successful');
